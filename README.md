@@ -1,6 +1,6 @@
 This package contains the codes for the following paper:
 
-* \[1\] Yinpeng Dong, Hang Su, Jun Zhu, Bo Zhang. Improve interpretabilirt of Deep Neural Networks with Semantic Information (In preparation). CVPR 2017.
+* \[1\] Yinpeng Dong, Hang Su, Jun Zhu, Bo Zhang. Improve interpretability of Deep Neural Networks with Semantic Information (In preparation). CVPR 2017.
 
 [Video](http://ml.cs.tsinghua.edu.cn/~yinpeng/papers/demo-cvpr17.mp4)
 
@@ -39,5 +39,5 @@ This is a known problem in COCO evaluation script (their code) where METEOR are 
 To fix the problem, add this line after line https://github.com/tylin/coco-caption/blob/master/pycocoevalcap/meteor/meteor.py#L44
 `self.meteor_p.kill()`
 
-If you have any questions, drop us email at li.yao@umontreal.ca.
+If you have any questions, drop us email at dongyinpeng@gmail.com or dongyp13@mails.tsinghua.edu.cn.
 
