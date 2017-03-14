@@ -1,6 +1,6 @@
 This package contains the codes for the following paper:
 
-* \[1\] Yinpeng Dong, Hang Su, Jun Zhu, Bo Zhang. Improve interpretability of Deep Neural Networks with Semantic Information (In preparation). CVPR 2017.
+* \[1\] Yinpeng Dong, Hang Su, Jun Zhu, Bo Zhang. [Improve interpretability of Deep Neural Networks with Semantic Information](http://arxiv.org/abs/1703.04096). CVPR 2017.
 
 [Video](http://ml.cs.tsinghua.edu.cn/~yinpeng/papers/demo-cvpr17.mp4)
 
